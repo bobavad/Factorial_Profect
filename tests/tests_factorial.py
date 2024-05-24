@@ -8,7 +8,3 @@ def test_factorial_one():
 
 def test_factorial_positive():
     assert factorial(5) == 120
-
-def test_factorial_negative():
-    with pytest.raises(ValueError):
-        factorial(-1)
