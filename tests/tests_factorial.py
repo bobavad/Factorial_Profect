@@ -1,5 +1,4 @@
-import pytest
-from factorial import factorial
+from Project.factorial import factorial
 
 def test_factorial_zero():
     assert factorial(0) == 1
