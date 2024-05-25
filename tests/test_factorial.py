@@ -27,3 +27,11 @@ def test_4():
     @return  6.
     """
     assert factorial(3) == 6
+    
+def test_5():
+    """! 5.
+    @param 4   Num 1.
+    @return  24.
+    """
+    assert factorial(4) == 24
+
