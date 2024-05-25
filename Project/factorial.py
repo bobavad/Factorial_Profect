@@ -1,5 +1,5 @@
 def factorial(n):
-     """! Factorial.
+    """! Factorial.
     @param n  Number.
     @return  result.
     """
