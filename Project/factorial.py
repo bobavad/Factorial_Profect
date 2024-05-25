@@ -1,6 +1,6 @@
 def factorial(n):
      """! Factorial.
-    @param n  Number
+    @param n  Number.
     @return  result.
     """
     if n < 0:
